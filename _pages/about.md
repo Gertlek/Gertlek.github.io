@@ -3,17 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-## Short introduction
-### Test
+### Short introduction
 
 
 
-## Interests
+
+### Interests
 
 
 
-## People I follow
+### People I follow
 
 
 
-## Books I recommend
+### Books I recommend

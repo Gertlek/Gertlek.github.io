@@ -20,6 +20,7 @@ Here I binned my interests in Sci-Fi, Psychology, Literature, Fantasy and Biogra
 
 ### People I follow
 I try to learn and better myself through examining other admirable people. Here is a comprehensive list of some of these people:
+- Charlie Munger
 - Warren Buffet
 - Mohnish Pabrai
 - Guy Spier
@@ -29,8 +30,19 @@ I try to learn and better myself through examining other admirable people. Here 
 - Matthew Peterson
 - Shane Smith
 - Patrick Boyle
-
+- Li Lu
 
 ### Books I recommend
+
+-- test
+
+
+### Podcasts I recommend
+
+
+### Documentaries I adore 
+
+
+### Movies that impacted me 
 
 

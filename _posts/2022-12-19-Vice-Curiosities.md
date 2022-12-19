@@ -5,7 +5,7 @@ categories: [Documentaries, Vice, Hobby's]
 ---
 A good writer is a lazy writer ( or was it Mathematician? Well anyway.)  , so I will leave the introduction of VICE to ChatGPT:
 
-"VICE is a media company that was founded in 1994 as a print magazine in Montreal, Canada. It has since grown into a multi-platform media company that produces documentaries, news, and cultural content.
+<i "VICE is a media company that was founded in 1994 as a print magazine in Montreal, Canada. It has since grown into a multi-platform media company that produces documentaries, news, and cultural content.
 
 VICE's documentaries often focus on controversial and taboo topics, including drug use, crime, and social justice issues. The company has a reputation for producing investigative and immersive content that gives a voice to underrepresented communities and sheds light on important issues.
 
@@ -13,7 +13,7 @@ Over the years, VICE has produced a number of highly acclaimed documentaries, in
 
 In addition to its documentary work, VICE also produces news and cultural content for its website, YouTube channel, and television networks. The company has a strong presence on social media and has a large following on platforms like YouTube, Facebook, and Instagram.
 
-Overall, VICE is known for producing provocative and thought-provoking content that pushes boundaries and challenges the status quo. "
+Overall, VICE is known for producing provocative and thought-provoking content that pushes boundaries and challenges the status quo. " >
 
 In this blog, I want to dive deeper into a self-selected subset of my most influential documentaries. Influential because I gained important insights from them during a difficult time. Skills like relativization and discovering that there are incredibly interesting topics out there in the world. If you don't keep discovering niche information, your world gets smaller instead. Where the biggest contributer to this, is the fact that having a limited scope of interesting things causes less to seem dull. Which sounds contradictory, but I suggest that the ability to find ordinary things dull greatly increases ones curiousity.
 

@@ -3,7 +3,7 @@ layout: post
 title: Vice Curiosities, People and Reports I admire
 categories: [Documentaries, Vice, Hobby's]
 ---
-A good writer is a lazy writer ( or was it Mathematician? Well anyway.)  , so I will leave the introduction of VICE to ChatGPT:
+A good writer is a lazy writer ( or was it Mathematician? Well anyway)  , so I will leave the introduction of VICE to ChatGPT:
 
 <i "VICE is a media company that was founded in 1994 as a print magazine in Montreal, Canada. It has since grown into a multi-platform media company that produces documentaries, news, and cultural content.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vice Curiosities: People and Reports I admire
+title: Vice Curiosities, People and Reports I admire
 categories: []
 ---
 

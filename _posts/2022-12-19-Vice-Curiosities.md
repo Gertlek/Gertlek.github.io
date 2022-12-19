@@ -1,9 +1,8 @@
 ---
-layout : post
-title : Vice Curiosities: People and Reports I admire
-categories : [Documentaries, Hobby's, 2022, Vice]
+layout: post
+title: Vice Curiosities: People and Reports I admire
+categories: []
 ---
-
 
 <!-- 
 ## My first post 

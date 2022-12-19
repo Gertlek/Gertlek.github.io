@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vice Curiosities, People and Reports I admire
+title: Vice Curiosities, people and reports I admire
 categories: [Documentaries, Vice, Hobby's]
 ---
 A good writer is a lazy writer ( or was it Mathematician? Well anyway)  , so I will leave the introduction of VICE to ChatGPT:

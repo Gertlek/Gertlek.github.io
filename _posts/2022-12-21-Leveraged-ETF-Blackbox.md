@@ -42,10 +42,10 @@ In the above plot, we see that with r > 0.04, we dont outperform anymore! Since 
 Let us proceed with something novel. We will return to the SPY index from 2010, and also retrieve data from 2010 of 2x leveraged SPY etf: "Xtrackers S&P 500 2x Leveraged Daily Swap UCITS ETF 1C". Our method of retrieving r (interest + management expense) will be as follows:
 
 - Calculate investment of 1 from 2010-2022 for theoretical 2x SPY and the Xtrackers 2x SPY etf. 
-- Set up discounting process of 2x SPY with $$ \frac{1}{1+r}^(1/251) $$  (annualized r to daily r) for each time step
+- Set up discounting process of 2x SPY with (1+r)^(-1/251)  (annualized r to daily r) for each time step
 - Minimize Mean Absolute Deviation (MAD) between 2x SPY and Xtrackers 2x SPY by varying r
 
-We keep in mind that this is an approximate solution, since the real r varies with time. Minimizing this we get that the MAD is minimized for r = 0.055. Which implies interest + management expenses of 5.5 % , removing average managment expense yields average interest expense of $$ 0.055-0.0075 = 0.0475 $$ %. 
+We keep in mind that this is an approximate solution, since the real r varies with time. Minimizing this we get that the MAD is minimized for r = 0.055. Which implies interest + management expenses of 5.5 % , removing average managment expense yields average interest expense of 0.055-0.0075 = 0.0475 %
 
 To display goodness of fit we show two graphs: 
 

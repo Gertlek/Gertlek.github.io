@@ -38,4 +38,24 @@ In the above plot, we see that with r > 0.04, we dont outperform anymore! Since 
 
 ## Reverse engineering r
 
-Let us
+Let us proceed with something novel. We will return to the SPY index from 2010, and also retrieve data from 2010 of 2x leveraged SPY etf: "Xtrackers S&P 500 2x Leveraged Daily Swap UCITS ETF 1C". Our method of retrieving r (interest + management expense) will be as follows:
+
+- Calculate investment of 1 from 2010-2022 for theoretical 2x SPY and the Xtrackers 2x SPY etf. 
+- Set up discounting process of 2x SPY with $$ \frac{1}{1+r}^(1/251) $$  (annualized r to daily r) for each time step
+- Minimize Mean Absolute Deviation (MAD) between 2x SPY and Xtrackers 2x SPY by varying r
+
+We keep in mind that this is an approximate solution, since the real r varies with time. Minimizing this we get that the MAD is minimized for r = 0.055. Which implies interest + management expenses of 5.5 % , removing average managment expense yields average interest expense of $$ 0.055-0.0075 = 0.0475 $$ %. 
+
+To display goodness of fit we show two graphs: 
+
+![](/images/spycomp.png)
+
+###
+
+Let us now return to the longer data set of the MSCI etf. Using r = 5.5 % in this, we achieve the following graph: 
+
+
+![](/images/mscicomp.png)
+
+My aim of this post was to comprehensively dissect the black box of leveraged ETFs, since I was unable to find this information myself on the web. With these statistics in mind, I hope retail investors dont hold these ETFs for the longer term. It wouldnt be surprising if they do, since the information is so sparsely available and the thesis can look deceivingly simple. As with most investment decisions, its complicated. 
+

@@ -8,6 +8,7 @@ Long term, indices go up. So why not leverage this and achieve higher returns? W
 
 Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have doubled compared to 2021. Now representin 5% of all ETF purchases. The most common leveraged ETF is a daily rebalanced etf that uses total return swaps to amplify or invert returns. For example, the S&P 500 ETF (SPY) rising 5 %, the 2x SPY ETF would rise approximately 10 %. A simplified example that over a given time period, 2x ETF does not imply 2x returns. In this example, the returns alternate 4 times between +10% and -10%.
 
+<center>
 
 | SPY                  |   2x SPY             | 
 |--------------------- | ---------------------|
@@ -15,6 +16,7 @@ Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have d
 | 0.99 		     | 0.96 		    |
 | 1.09		     | 1.15                 |
 | 0.98 		     | 0.92			    |
+</center>
 
 In this simplified example, we have omitted management fees and interest expenses.  Management fees are usually higher due for leveraged etf's, around 0.75 % anually.
 Any online sources on leveraged etfs dont dive into interest expenses, while I theorize in this article that this is the most import denominator for out/under-performance.
@@ -50,10 +52,9 @@ To display goodness of fit we show two graphs:
 
 ![](/images/spycomp.png)
 
-###
+### (out)performance ?
 
 Let us now return to the longer data set of the MSCI etf. Using r = 5.5 % in this, we achieve the following graph: 
-
 
 ![](/images/mscicomp.png)
 

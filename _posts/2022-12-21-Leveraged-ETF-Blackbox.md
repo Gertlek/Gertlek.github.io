@@ -11,10 +11,10 @@ Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have d
 <center>
 
 | SPY                  |   2x SPY             | 
-|--------------------- | ---------------------|
+|:---------------------: | :---------------------: |
 | 1.1			     | 1.2			    |
 | 0.99 		     | 0.96 		    |
-| 1.09		     | 1.15                 |
+| 1.09		     | 1.15         |
 | 0.98 		     | 0.92			    |
 </center>
 

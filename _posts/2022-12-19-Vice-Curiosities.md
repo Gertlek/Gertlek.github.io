@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vice Curiosities - people and reports I admire
-categories: [Documentaries, Vice, Hobby's, 2022]
+categories: [Documentaries, Vice, Hobby's]
 ---
 Today we will be exploring the world of old VICE documentaries in an effort to break out of our bubble and escape our rut.
 

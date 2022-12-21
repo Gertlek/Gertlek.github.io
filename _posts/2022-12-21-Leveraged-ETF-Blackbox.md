@@ -9,7 +9,7 @@ Welcome to my blog, where I aim to bring attention to overlooked subjects and sh
 
 Long term, indices go up. So why not leverage this and achieve higher returns? Why is the standard 0% leverage? We will try to answer this.
 
-Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have doubled compared to 2021. Now representin 5% of all ETF purchases. The most common leveraged ETF is a daily rebalanced etf that uses total return swaps to amplify or invert returns. For example, the S&P 500 ETF (SPY) rising 5 %, the 2x SPY ETF would rise approximately 10 %. A simplified example that over a given time period, 2x ETF does not imply 2x returns. In this example, the returns alternate 4 times between +10% and -10%.
+Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have doubled compared to 2021. Now representing 5% of all ETF purchases. The most common leveraged ETF is a daily rebalanced etf which use total return swaps to amplify or invert returns. For example, the S&P 500 ETF (SPY) rising 5 %, the 2x SPY ETF would rise approximately 10 %. Portraying the fact that over a given time period, 2x ETF does not imply 2x returns. Here, the returns alternate 4 times between +10% and -10%.
 
 
 |  SPY                  |   2x SPY             | 
@@ -20,7 +20,7 @@ Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have d
 | 0.98 		     | 0.92			    |
 
 
-In this simplified example, we have omitted management fees and interest expenses.  Management fees are usually higher due for leveraged etf's, around 0.75 % anually.
+In this simplified example, we have omitted management fees and interest expenses.  Management fees are usually higher due for leveraged ETFs, around 0.75 % anually.
 Any online sources on leveraged etfs dont dive into interest expenses, while I theorize in this article that this is the most import denominator for out/under-performance.
 
 ## Perfect world
@@ -30,7 +30,7 @@ Suppose we live in a perfect world, without management fees and interest expense
 
 ![](/images/mscir.png)
 
-We notice fast outperformance in this perfect world against the index over the last 23 years. But inspecting the graph, we have periods of underperformance and the large outperformance is in periods where the market is continually moving up. 
+We notice great outperformance in this perfect world against the index over the last 23 years. But inspecting the graph, we have periods of underperformance and the large outperformance is in periods where the market is continually moving up. 
 
 ### Interest and management expenses
 
@@ -59,6 +59,8 @@ To display goodness of fit we show two graphs:
 Let us now return to the longer data set of the MSCI etf. Using r = 5.5 % in this, we achieve the following graph: 
 
 ![](/images/mscicomp.png)
+
+One possible explanation is that negative returns carry more weight through simple mathematical arguments: A stock that falls by 50% must subsequently rise by 100% to balance itself out. The disadvantage here is reinforced not only by the leverage factor, but also by the costs. Again,  simplified: a rise of 10% would mean a rise of 20% - cost, and a fall of 10% would mean a fall of 20% - cost. Which is greater in absolute terms than the leveraged net increase.
 
 My aim of this post was to comprehensively dissect the black box of leveraged ETFs, since I was unable to find this information myself on the web. With these statistics in mind, I hope retail investors dont hold these ETFs for the longer term. It wouldnt be surprising if they do, since the information is so sparsely available and the thesis can look deceivingly simple. As with most investment decisions, its complicated. 
 

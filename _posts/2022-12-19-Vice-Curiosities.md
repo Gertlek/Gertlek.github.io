@@ -3,6 +3,11 @@ layout: post
 title: Vice Curiosities, people and reports I admire
 categories: [Documentaries, Vice, Hobby's, 2022]
 ---
+Today we will be exploring the world of old VICE documentaries in an effort to break out of our bubble and escape our rut.
+
+Welcome to my blog, where I aim to bring attention to overlooked subjects and shed light on important issues that may not always receive the attention they deserve. Our focus will be on stock write-ups, documentaries, and quantitative analyses, as they offer valuable insights and perspectives that can help us better understand the world around us. These subjects have the power to educate, inspire, and stimulate critical thinking.
+
+
 A good writer is a lazy writer ( or was it Mathematician? Well anyway)  , so I will leave the introduction of VICE to ChatGPT:
 
 _ "VICE is a media company that produces documentaries, news, and cultural content, often focusing on controversial and taboo topics. The company is known for its investigative and immersive reporting and has produced a number of highly acclaimed documentaries, winning numerous awards including Emmys and Peabodys. In addition to its documentary work, VICE produces content for its website, YouTube channel, and television networks and has a strong presence on social media. The company is known for its provocative and thought-provoking content that challenges the status quo. "_

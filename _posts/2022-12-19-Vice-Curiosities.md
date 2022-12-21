@@ -12,7 +12,7 @@ A good writer is a lazy writer ( or was it Mathematician? Well anyway)  , so I w
 
 _ "VICE is a media company that produces documentaries, news, and cultural content, often focusing on controversial and taboo topics. The company is known for its investigative and immersive reporting and has produced a number of highly acclaimed documentaries, winning numerous awards including Emmys and Peabodys. In addition to its documentary work, VICE produces content for its website, YouTube channel, and television networks and has a strong presence on social media. The company is known for its provocative and thought-provoking content that challenges the status quo. "_
 
-In this blog, I want to dive deeper into a self-selected subset of my most influential documentaries. Influential because I gained important insights from them during a difficult time. Skills like relativization and discovering that there are incredibly interesting topics out there in the world. If you don't keep discovering niche information, your world gets smaller instead. Where the biggest contributer to this, is the fact that having a limited scope of interesting things causes less to seem dull. Which sounds contradictory, but I suggest that the ability to find ordinary things dull greatly increases ones curiousity.
+In this blog, I want to dive deeper into a self-selected subset of my most influential documentaries. If you don't keep discovering niche information, your world will instead become smaller and smaller. What contributes most to this is the fact that a limited amount of interesting stuff makes less seem boring.  Which sounds contradictory, but I suggest that the ability to find ordinary things dull greatly increases ones curiousity.
 
 ## Shane Smith
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuances in leveraged ETFs
-categories: [ETF, leverage, 2022]
+categories: [ETF, leverage]
 ---
 Today, I will be conducting an analysis of leveraged ETFs with the goal of providing information to retail investors who may not be well-versed in this subject. In particular, we will be focusing on filling the gap in information regarding the long-term performance and expenses of leveraged ETFs.
 

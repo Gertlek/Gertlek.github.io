@@ -3,14 +3,16 @@ layout: post
 title: Nuances in leveraged ETFs
 categories: [ETF, leverage, 2022]
 ---
+Today, I will be conducting an analysis of leveraged ETFs with the goal of providing information to retail investors who may not be well-versed in this subject. In particular, we will be focusing on filling the gap in information regarding the long-term performance and expenses of leveraged ETFs.
 
+Welcome to my blog, where I aim to bring attention to overlooked subjects and shed light on important issues that may not always receive the attention they deserve. Our focus will be on stock write-ups, documentaries, and quantitative analyses, as they offer valuable insights and perspectives that can help us better understand the world around us. These subjects have the power to educate, inspire, and stimulate critical thinking.
 Long term, indices go up. So why not leverage this and achieve higher returns? Why is the standard 0% leverage? We will try to answer this.
 
 Let us first introduce leveraged ETFs. In 2022, inflows for leveraged ETF have doubled compared to 2021. Now representin 5% of all ETF purchases. The most common leveraged ETF is a daily rebalanced etf that uses total return swaps to amplify or invert returns. For example, the S&P 500 ETF (SPY) rising 5 %, the 2x SPY ETF would rise approximately 10 %. A simplified example that over a given time period, 2x ETF does not imply 2x returns. In this example, the returns alternate 4 times between +10% and -10%.
 
 
-|:  SPY                  :|:   2x SPY             :| 
-|:---------------------: | :---------------------: |
+|  SPY                  |   2x SPY             | 
+|--------------------- | --------------------- |
 | 1.1			     | 1.2			    |
 | 0.99 		     | 0.96 		    |
 | 1.09		     | 1.15         |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuances in leveraged ETFs
-categories: [Miscellaneous, Jekyll]
+categories: [ETF, leverage, 2022]
 ---
 
 Long term, indices go up. So why not leverage this and achieve higher returns? Why is the standard 0% leverage? We will try to answer this.

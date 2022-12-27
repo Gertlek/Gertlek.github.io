@@ -4,8 +4,6 @@ title: The Unseen Depths of Lee Enterprises
 categories: [write-up,LEE,stocks,value,investment]
 ---
 
-
-## Description
 Buffet used to love the newspaper business: monopolies, fat margins and predictability. But this changed with the rise of the internet. Perhaps these times can return, as the industry is consolidated and digital newspapers have high margin revenue.
 
 Lee Enterprises is a media company that owns and operates newspapers, websites, and digital marketing services in small to mid-sized markets in the United States. The company's revenue is primarily generated through advertising and subscriptions. Lee Enterprises has faced challenges in recent years due to declining print advertising and circulation, as well as increased competition from digital media platforms. However, the company has made efforts to diversify its revenue streams, including through acquisitions and investments in digital marketing services.

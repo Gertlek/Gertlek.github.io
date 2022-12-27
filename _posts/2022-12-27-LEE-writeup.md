@@ -8,13 +8,11 @@ Buffet used to love the newspaper business: monopolies, fat margins and predicta
 
 Lee Enterprises is a media company that owns and operates newspapers, websites, and digital marketing services in small to mid-sized markets in the United States. The company's revenue is primarily generated through advertising and subscriptions. Lee Enterprises has faced challenges in recent years due to declining print advertising and circulation, as well as increased competition from digital media platforms. However, the company has made efforts to diversify its revenue streams, including through acquisitions and investments in digital marketing services.
 
-Currently Lee Enterprises owns 77 daily newspapers and approximately 350 specialty publications in 26 states. Additionally, they own several news websited and a digital marketing service (TownNews). Lee even bought the Omaha World-Herald and The Buffalo News from Berkshire in 2020.
+Currently Lee Enterprises owns 77 daily newspapers and approximately 350 specialty publications in 26 states. Additionally, they own several news websited and a digital marketing service (TownNews). LEE even bought the Omaha World-Herald and The Buffalo News from Berkshire in 2020.
 
- "We had zero interest in selling the group to anyone else for one simple reason: We believe that Lee is best positioned to manage through the industry's challenges" Buffett
-
+ "We had zero interest in selling the group to anyone else for one simple reason: We believe that LEE is best positioned to manage through the industry's challenges" Buffett
 He added that he and his investment partner, Charlie Munger, "have known and admired the Lee Organization for over 40 years" 
-
-As part of this transaction,  Buffet took over all of Lee's debt and refinanced it with favorable terms (more on this later). Enough chit chat, lets move to the "Why".
+As part of this transaction,  Buffet took over all of LEE's debt and refinanced it with favorable terms (more on this later). Enough chit chat, lets move to the "Why".
 
 Welcome to my blog, where I aim to bring attention to overlooked subjects and shed light on important issues that may not always receive the attention they deserve. Our focus will be on stock write-ups, documentaries, and quantitative analyses, as they offer valuable insights and perspectives that can help us better understand the world around us. These subjects have the power to educate, inspire, and stimulate critical thinking.
 

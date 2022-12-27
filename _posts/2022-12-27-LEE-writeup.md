@@ -1,4 +1,7 @@
-##Description
+
+
+
+## Description
 Buffet used to love the newspaper business: monopolies, fat margins and predictability. But this changed with the rise of the internet. Perhaps these times can return, as the industry is consolidated and digital newspapers have high margin revenue.
 
 Lee Enterprises is a media company that owns and operates newspapers, websites, and digital marketing services in small to mid-sized markets in the United States. The company's revenue is primarily generated through advertising and subscriptions. Lee Enterprises has faced challenges in recent years due to declining print advertising and circulation, as well as increased competition from digital media platforms. However, the company has made efforts to diversify its revenue streams, including through acquisitions and investments in digital marketing services.
@@ -11,11 +14,13 @@ He added that he and his investment partner, Charlie Munger, "have known and adm
 
 As part of this transaction,  Buffet took over all of Lee's debt and refinanced it with favorable terms (more on this later). Enough chit chat, lets move to the "Why".
 
-##Thesis 
+Welcome to my blog, where I aim to bring attention to overlooked subjects and shed light on important issues that may not always receive the attention they deserve. Our focus will be on stock write-ups, documentaries, and quantitative analyses, as they offer valuable insights and perspectives that can help us better understand the world around us. These subjects have the power to educate, inspire, and stimulate critical thinking.
+
+## Thesis 
 
 My thesis is that around 2025, LEE will have a higher margin digital business. In most towns they are the only newspaper, and therefore have pricing power. Also, the TAM is bigger for digital since more people can afford to pay 5-15 dollars a month instead of physical newspapers.
 
-The inflection point, where the digital revenue exceeeds the print revenue would cause the business to generate large cash flows. Additionally, management has given a guidance for digital revenue and subscribers which I believe is too conservative. 
+The inflection point, is where the digital revenue exceeeds the print revenue would cause the business to generate large cash flows. Additionally, management has given a guidance for digital revenue and subscribers which I believe is too conservative. 
 
 This is possibly a Mohnish bet, where the upside is 5-10x in 5 years and the downside is limited since the debt looks secure. 
 

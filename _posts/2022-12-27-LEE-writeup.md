@@ -34,7 +34,7 @@ Management is guiding for $435 million of digital revenue by 2026, reducing cash
 
 ### Digital Revenue
 In Q3 of 2022, LEE had 532 million digital subscribers. From 2015, these subscribers have grown at a > 70% CAGR, and from 2019 approximately a 50% CAGR. Using a 20% CAGR until 2026 yields 1324 million digital subcribers in 2026, where management is aiming for 900 million.
-Currently, the average monthly revenue per subscriber is $7.3 dollars. Let us be conservative and assume that this does not increase with inflation but stays at 7.3. Then we arrive at a conservative 116 million of digital subscription revenue. Keep in mind that with current growth, the management target is achieved around the beginning of 2024 ( 3 years early )
+Currently, the average monthly revenue per subscriber is $7.3 dollars. Let us be conservative and assume that this does not increase with inflation but stays at 7.3. Then we arrive at a conservative 116 million of digital subscription revenue. Keep in mind that with current growth, the management target is achieved around the beginning of 2024 ( 3 years early ).
 
 LEE is guiding 310 million digital advertising revenue in 2026, which implies a 14% CAGR. Again, in 2022, this revenue stream grew at 27% mainly driven by their digital marketing solution which grew 74%. 
 

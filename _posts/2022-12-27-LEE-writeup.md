@@ -50,7 +50,7 @@ Now onto the costs, currently cash costs have declined 35% from 2017 to 2022 to 
 
 Current EBIT margin is about 13% and has been contuously improving. Let us say this margin is 18% in 2026. Since 2026 is far past the inflection point, which is somewhere around 2024. The margins should be substantially higher. We arrive at total revenue of 350+426 = 776 and 2026 EBIT of about 140 million.
 
-Thus, since lower debt => lower EV. The current market cap is around 100 million. This means LEE is trading at around 0.7x 2026 Price/EBIT but taking into account debt, the range is 
+Thus, since lower debt => lower EV and since current market cap is around 100 million. This means LEE is trading at around 0.7x 2026 Price/EBIT but taking into account debt, the range is 
 2x to 4x 2026 EV/EBIT. Valuing LEE as a newspaper, we would use a low single digit Price/EBIT multiple, but seeing it as SAAS company in 2026, an analyst could apply 10-15x multiples. Anyways, the business looks robustly cheap. And finally, probably on the minds of all readers: now a small section on Berkshire's debt.
 
 

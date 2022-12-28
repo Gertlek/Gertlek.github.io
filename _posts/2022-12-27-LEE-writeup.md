@@ -92,7 +92,6 @@ In my opinion, in order from most prominent to least prominent.
 
 - Management capital allocation not focused on profitable growth, so we never return to positive FCF
 
-
 ### Disclaimer
 All information in this document is solely based on LEE SEC filings, VIC write-ups and hedge fund write-ups. I (Gert Lek) do not hold this security in my portfolio, but can change my mind without updating this blog. None of the calculations and forecasts are written here, please do your own DD.
 

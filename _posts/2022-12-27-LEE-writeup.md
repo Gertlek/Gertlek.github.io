@@ -46,7 +46,7 @@ The total print revenue has 2022 revenue of 550 million, and has historically be
 ### Cash costs
 Now onto the costs, currently cash costs have declined 35% from 2017 to 2022 to 693 million. Where a part (40 million) has to do with the business transformation process, and most of the rest is related to the print business. Let us say that they reduce these costs with another 30% from 2022 to 2026, while the print business (and its costs) withers away. We arrive at 485 million of cash costs. This is not taking into the account debt repayment and therefore lowering annual interest payments. 
 
-### Rough valuation
+## Rough valuation
 
 Current EBIT margin is about 13% and has been contuously improving. Let us say this margin is 18% in 2026. Since 2026 is far past the inflection point, which is somewhere around 2024. The margins should be substantially higher. We arrive at total revenue of 350+426 = 776 and 2026 EBIT of about 140 million.
 

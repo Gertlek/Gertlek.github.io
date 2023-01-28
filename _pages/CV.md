@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-![](images/CV Gert Lek English.pdf)
+![](images/CV%20Gert%%20English.pdf)
